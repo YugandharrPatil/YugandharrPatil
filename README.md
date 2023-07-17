@@ -19,6 +19,7 @@ I'm an indie full-stack developer, w3 developer, game developer, cybersecurity e
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/python.png" />
 
 <br>
+<br>
 
 #
 
@@ -38,6 +39,7 @@ I'm an indie full-stack developer, w3 developer, game developer, cybersecurity e
 
 <img align="left" alt="Upstash" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/upstash.png" />
 
+<br>
 <br>
 
 #
@@ -68,6 +70,7 @@ I'm an indie full-stack developer, w3 developer, game developer, cybersecurity e
 
 <img align="left" alt="PlanetScale" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/planetscale.png" />
 
+<br>
 <br>
 
 ## **🔗 Links**
