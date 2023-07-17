@@ -1,10 +1,16 @@
-# **🤟🏽 Yugandhar Patil**
+# **Hey There!<img src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/wave.gif" width="30px"> I'm Yugandhar**
 
 **`Digital Builder (Developer/Gamer/Reader)`**
 
 I'm an indie full-stack developer, w3 developer, game developer, cybersecurity enthusiast and an avid gamer. I'm deeply passionate about solving problems & creating value adding products with code. I'm a completely self-taught programmer, exploring & working my way up in the tech domains that interest me; not to mention, I've a bachelors degree in Mechanical Engineering.
 
-### **:hammer_and_wrench: Tools & Technologies**
+### **🛠️ Languages, Tools & Technologies**
+
+<img align="left" alt="c-sharp" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/c-sharp.png" />
+
+<img align="left" alt="cpp" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/cpp.png" />
+
+<br>
 
 <img align="left" alt="Next" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 
@@ -21,10 +27,6 @@ I'm an indie full-stack developer, w3 developer, game developer, cybersecurity e
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
           
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-<img align="left" alt="c-sharp" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/c-sharp.png" />
-
-<img align="left" alt="cpp" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/cpp.png" />
 
 <br>
 
