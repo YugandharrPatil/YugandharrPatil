@@ -111,5 +111,5 @@ I'm an indie full-stack developer, w3 developer, game developer, cybersecurity e
 #
 
 <details>
-  <summary><h3>🚗 About my Coding Journey</h3></summary>
+  <summary><h3>🗺️ About my Coding Journey</h3></summary>
     I started my coding journey blah blah blah lorem50 lmao
