@@ -1,4 +1,4 @@
-# **Hey There! <img src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/wave.gif" width="30px">I'm Yugandhar**
+# **Hey There!<img src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/wave.gif" width="30px">I'm Yugandhar**
 
 **`Digital Builder (Developer/Gamer/Reader)`**
 
