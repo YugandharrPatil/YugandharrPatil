@@ -6,17 +6,17 @@ I'm an indie full-stack developer, w3 developer, game developer, cybersecurity e
 
 ### **🛠️ Languages, Tools & Technologies**
 
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/c.png" />
+<img align="left" alt="C" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/c.png" />
 
-<img align="left" alt="CPP" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/cpp.png" />
+<img align="left" alt="CPP" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/cpp.png" />
 
-<img align="left" alt="C-Sharp" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/c-sharp.png" />
+<img align="left" alt="C-Sharp" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/c-sharp.png" />
 
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/javascript.png" />
+<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/javascript.png" />
 
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/typescript.png" />
+<img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/typescript.png" />
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/python.png" />
+<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/python.png" />
 
 <br>
 
@@ -48,9 +48,9 @@ I'm an indie full-stack developer, w3 developer, game developer, cybersecurity e
 
 <img align="left" alt="Next" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/nextjs.png" />
 
-<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/typescript/tailwindcss.png" />
+<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/tailwindcss.png" />
 
-<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/typescript/shadcnui.png" />
+<img align="left" alt="shadcnui" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/shadcnui.png" />
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/typescript.png" />
 
@@ -77,8 +77,6 @@ I'm an indie full-stack developer, w3 developer, game developer, cybersecurity e
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/vercel.png" />
  
 <img align="left" alt="Vite" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/vite.png" />
- 
-<img align="left" alt="mySQL" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/mysql.png" />
 
 <img align="left" alt="PlanetScale" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/planetscale.png" />
 
