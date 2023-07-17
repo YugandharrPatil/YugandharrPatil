@@ -23,21 +23,21 @@ I'm an indie full-stack developer, w3 developer, game developer, cybersecurity e
 
 #
 
-<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/git.png" />
+<img align="left" alt="Git" width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/git.png" />
 
-<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/github.png" />
+<img align="left" alt="GitHub" width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/github.png" />
 
-<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/eslint.png" />
+<img align="left" alt="GitHub" width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/eslint.png" />
 
-<img align="left" alt="Postman" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/postman.png" />
+<img align="left" alt="Postman" width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/postman.png" />
 
-<img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/bash.png" />
+<img align="left" alt="Bash" width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/bash.png" />
 
-<img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/linux.png" />
+<img align="left" alt="Linux" width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/linux.png" />
 
-<img align="left" alt="Ubuntu" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/ubuntu.png" />
+<img align="left" alt="Ubuntu" width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/ubuntu.png" />
 
-<img align="left" alt="Upstash" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/upstash.png" />
+<img align="left" alt="Upstash" width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/upstash.png" />
 
 <br>
 <br>
