@@ -64,8 +64,6 @@ I'm an indie full-stack developer, w3 developer, game developer, cybersecurity e
 
 <img align="left" alt="React Query" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/reactquery.png" />
  
-<img align="left" alt="Vercel" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/vercel.png" />
- 
 <img align="left" alt="Vite" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/vite.png" />
 
 <img align="left" alt="PlanetScale" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/planetscale.png" />
