@@ -30,9 +30,9 @@ I'm an indie full-stack developer, w3 developer, game developer, cybersecurity e
 
 <img align="left" alt="Postman" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/postman.png" />
 
-<img align="left" alt="Bash" width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/bash.png" />
+<img align="left" alt="Bash" width="55px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/bash.png" />
 
-<img align="left" alt="Linux" width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/linux.png" />
+<img align="left" alt="Linux" width="55px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/linux.png" />
 
 <img align="left" alt="Ubuntu" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/ubuntu.png" />
 
