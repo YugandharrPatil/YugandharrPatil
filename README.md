@@ -10,7 +10,7 @@ I'm an indie full-stack developer, w3 developer, game developer, cybersecurity e
 
 <img align="left" alt="cpp" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/cpp.png" />
 
-<br>
+#
 
 <img align="left" alt="Next" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 
