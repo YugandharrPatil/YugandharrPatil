@@ -6,17 +6,17 @@ I'm an indie full-stack developer, w3 developer, game developer, cybersecurity e
 
 ## **🛠️ Languages, Tools & Technologies**
 
-<img align="left" alt="C" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/c.png" />
+<img align="left" alt="C" width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/c.png" />
 
-<img align="left" alt="CPP" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/cpp.png" />
+<img align="left" alt="CPP" width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/cpp.png" />
 
-<img align="left" alt="C-Sharp" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/c-sharp.png" />
+<img align="left" alt="C-Sharp" width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/c-sharp.png" />
 
-<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/javascript.png" />
+<img align="left" alt="JavaScript" width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/javascript.png" />
 
-<img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/typescript.png" />
+<img align="left" alt="TypeScript" width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/typescript.png" />
 
-<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/python.png" />
+<img align="left" alt="Python" width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/python.png" />
 
 <br>
 <br>
