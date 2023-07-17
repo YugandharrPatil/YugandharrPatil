@@ -82,12 +82,28 @@ I'm an indie full-stack developer, w3 developer, game developer, cybersecurity e
 
 [![Linkedin Badge](https://img.shields.io/badge/-yugandharr.com-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://www.yugandharr.com/)
 
+#
+
 ### **📊 Github Stats**
 
 ![Yugandhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yugandharrpatil&show_icons=true&theme=chartreuse-dark)
 
-# **Some Projects**
+#
 
-<a href="https://github.com/YugandharrPatil/Tindog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YugandharrPatil&repo=Tindog&theme=chartreuse-dark" />
+### **🏗️ Some Projects**
+
+<a href="https://github.com/YugandharrPatil/graux-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YugandharrPatil&repo=graux-website&theme=chartreuse-dark" />
+</a>
+
+<a href="https://github.com/YugandharrPatil/weather">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YugandharrPatil&repo=weather&theme=chartreuse-dark" />
+</a>
+
+<a href="https://github.com/YugandharrPatil/todo-list">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YugandharrPatil&repo=todo-list&theme=chartreuse-dark" />
+</a>
+
+<a href="https://github.com/YugandharrPatil/drizzle-next13-starter-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YugandharrPatil&repo=drizzle-next13-starter-template&theme=chartreuse-dark" />
 </a>
