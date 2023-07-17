@@ -4,7 +4,7 @@
 
 I'm an indie full-stack developer, w3 developer, game developer, cybersecurity enthusiast and an avid gamer. I'm deeply passionate about solving problems & creating value adding products with code. I'm a completely self-taught programmer, exploring & working my way up in the tech domains that interest me; not to mention, I've a bachelors degree in Mechanical Engineering.
 
-### **🛠️ Languages, Tools & Technologies**
+## **🛠️ Languages, Tools & Technologies**
 
 <img align="left" alt="C" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/c.png" />
 
@@ -30,9 +30,9 @@ I'm an indie full-stack developer, w3 developer, game developer, cybersecurity e
 
 <img align="left" alt="Postman" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/postman.png" />
 
-<img align="left" alt="Bash" width="55px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/bash.png" />
+<img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/bash.png" />
 
-<img align="left" alt="Linux" width="55px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/linux.png" />
+<img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/linux.png" />
 
 <img align="left" alt="Ubuntu" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/ubuntu.png" />
 
@@ -72,7 +72,7 @@ I'm an indie full-stack developer, w3 developer, game developer, cybersecurity e
 
 #
 
-### **🔗 Links**
+## **🔗 Links**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Yugandhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yugandhar-patil-44339a221/)](https://www.linkedin.com/in/yugandhar-patil-44339a221/)
 
@@ -84,13 +84,13 @@ I'm an indie full-stack developer, w3 developer, game developer, cybersecurity e
 
 #
 
-### **📊 Github Stats**
+## **📊 Github Stats**
 
 ![Yugandhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yugandharrpatil&show_icons=true&theme=chartreuse-dark)
 
 #
 
-### **🏗️ Some Projects**
+## **🏗️ Some Projects**
 
 <a href="https://github.com/YugandharrPatil/graux-website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YugandharrPatil&repo=graux-website&theme=chartreuse-dark" />
@@ -107,3 +107,9 @@ I'm an indie full-stack developer, w3 developer, game developer, cybersecurity e
 <a href="https://github.com/YugandharrPatil/drizzle-next13-starter-template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YugandharrPatil&repo=drizzle-next13-starter-template&theme=chartreuse-dark" />
 </a>
+
+#
+
+<details>
+  <summary><h3>🚗About My Coding Journey</h3></summary>
+    I started my coding journey blah blah blah lorem50 lmao
