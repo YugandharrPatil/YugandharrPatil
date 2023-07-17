@@ -44,31 +44,31 @@ I'm an indie full-stack developer, w3 developer, game developer, cybersecurity e
 
 #
 
-<img align="left" alt="Next" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/nextjs.png" />
+<img align="left" alt="Next" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/nextjs.png" />
 
-<img align="left" alt="TailwindCSS" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/tailwindcss.png" />
+<img align="left" alt="TailwindCSS" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/tailwindcss.png" />
 
-<img align="left" alt="tRPC" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/trpc.png" />
+<img align="left" alt="tRPC" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/trpc.png" />
 
-<img align="left" alt="DrizzleORM" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/drizzle.png" />
+<img align="left" alt="DrizzleORM" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/drizzle.png" />
 
-<img align="left" alt="Prisma" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/prisma.png" />
+<img align="left" alt="Prisma" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/prisma.png" />
 
-<img align="left" alt="NextAuth" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/nextauth.png" />
+<img align="left" alt="NextAuth" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/nextauth.png" />
           
-<img align="left" alt="NodeJS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="NodeJS" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
-<img align="left" alt="Axios" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/axios.png" />
+<img align="left" alt="Axios" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/axios.png" />
 
-<img align="left" alt="Clerk" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/clerk.jpg" />
+<img align="left" alt="Clerk" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/clerk.jpg" />
 
-<img align="left" alt="Firebase" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/firebase.png" />
+<img align="left" alt="Firebase" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/firebase.png" />
 
-<img align="left" alt="React Query" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/reactquery.png" />
+<img align="left" alt="React Query" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/reactquery.png" />
  
-<img align="left" alt="Vite" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/vite.png" />
+<img align="left" alt="Vite" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/vite.png" />
 
-<img align="left" alt="PlanetScale" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/planetscale.png" />
+<img align="left" alt="PlanetScale" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/YugandharrPatil/YugandharrPatil/master/planetscale.png" />
 
 <br>
 <br>
