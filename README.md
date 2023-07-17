@@ -70,8 +70,6 @@ I'm an indie full-stack developer, w3 developer, game developer, cybersecurity e
 
 <br>
 
-#
-
 ## **🔗 Links**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Yugandhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yugandhar-patil-44339a221/)](https://www.linkedin.com/in/yugandhar-patil-44339a221/)
@@ -82,13 +80,9 @@ I'm an indie full-stack developer, w3 developer, game developer, cybersecurity e
 
 [![Linkedin Badge](https://img.shields.io/badge/-yugandharr.com-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://www.yugandharr.com/)
 
-#
-
 ## **📊 Github Stats**
 
 ![Yugandhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yugandharrpatil&show_icons=true&theme=chartreuse-dark)
-
-#
 
 ## **🏗️ Some Projects**
 
