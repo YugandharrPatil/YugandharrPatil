@@ -77,7 +77,7 @@ I'm an indie full-stack developer, w3 developer, game developer, cybersecurity e
 
 [![Linkedin Badge](https://img.shields.io/badge/-Yugandhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yugandhar-patil-44339a221/)](https://www.linkedin.com/in/yugandhar-patil-44339a221/)
 
-[![Twitter Badge](https://img.shields.io/badge/-@thisisyugz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ThisIsYugZ)](https://twitter.com/ThisIsYugZ)
+[![Twitter Badge](https://img.shields.io/badge/-@thisisyugz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/the_yugandharr)](https://twitter.com/the_yugandharr)
 
 [![Instagram Badge](https://img.shields.io/badge/-@the_yugandharr-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/the_yugandharr/)](https://www.instagram.com/the_yugandharr/)
 
